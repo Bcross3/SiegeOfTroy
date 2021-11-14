@@ -5,7 +5,7 @@ function Art() {
 		});
 		$('#art').fadeTo(1000, 1);
 		$('#fact').fadeTo(1000, 0.0, function() {
-			document.getElementById('fact').innerHTML = "Early explorers were painfully close to finding the real Troy. Pierre Belon and Pietro Della Valle, two sixteenth-century explorers, argued that the legendary Troy was based on a town called Alexandria Troas, just 20 kilometers south of Schliemann’s dig.";
+			document.getElementById('fact').innerHTML = 'Encouraged by his Hawkish brother Agamemnon, the king of Mycenae, Menelaus declared war on Troy, recruiting allies from the surrounding Greek city states. They had no trouble getting help: listing the Greeks allies takes up a whole chapter of the Iliad. All told, the fleet that sailed to Troy contained 1,186 ships.';
 		});
 		$('#fact').fadeTo(1000, 1);
 		
@@ -15,7 +15,7 @@ function Art() {
 			});
 			$('#art').fadeTo(1000, 1);
 			$('#fact').fadeTo(1000, 0.0, function() {
-				document.getElementById('fact').innerHTML = "Another Hittite document shows that the Hittite king Muwatalli II had signed a treaty with the king of Wilusa around 1280 BC. The king of Wilusa would have been relatively old, having already signed a previous treaty with Muwatalli I. That king’s name, Alexandu, is tantalizingly close to “Alexandros of Ilios,” a name sometimes applied to Paris in the Epic Cycle.";
+				document.getElementById('fact').innerHTML = 'According to the legends, the Trojan War ended with the defeat of the Trojans and the sacking of Troy. The victorious Achaeans returned home, with Helen returning to Sparta to spend the rest of her days with Menelaus.';
 			});
 			$('#fact').fadeTo(1000, 1);
 			
@@ -25,7 +25,7 @@ function Art() {
 				});
 				$('#art').fadeTo(1000, 1);
 				$('#fact').fadeTo(1000, 0.0, function() {
-					document.getElementById('fact').innerHTML = "The distinct layers which make up the Troy site speak to a history of destruction. Each time Troy was destroyed, it would be rebuilt on the same spot. This left archaeological remains in several layers at the same site, but not all of these layers indicate that destruction was the result of a war. Troy II was destroyed by a fire, while Troy VI was probably destroyed by an earthquake.";
+					document.getElementById('fact').innerHTML = 'Homers epic poem the Iliad is by far the most well known and influential account of the Trojan War. The epic was probably written in the 8th century BC. The name comes from the region around the city of Troy which was known to the Greeks as Ilios or Ilium.';
 				});
 				$('#fact').fadeTo(1000, 1);
 				
@@ -35,7 +35,7 @@ function Art() {
 					});
 					$('#art').fadeTo(1000, 1);
 					$('#fact').fadeTo(1000, 0.0, function() {
-						document.getElementById('fact').innerHTML = "Troy VI also featured some massive fortifications around the city, complete with towers. There was also a 270,000 square meter “lower city” surrounded by a ditch dug directly into rock. Not only does this suggest some ongoing hostilities with other nations, but it could corroborate Homer’s allusions to Troy’s massive walls, so great they were said to have been built by Apollo and Poseidon themselves.";
+						document.getElementById('fact').innerHTML = 'Despite the inconsistencies in Homers story, he did have a sense of Troy as a very real place. Homer lived just 400 years after the Trojan War was set, and the ruins of Troy were still visible in his time.';
 					});
 					$('#fact').fadeTo(1000, 1);
 					
@@ -45,7 +45,7 @@ function Art() {
 						});
 						$('#art').fadeTo(1000, 1);
 						$('#fact').fadeTo(1000, 0.0, function() {
-							document.getElementById('fact').innerHTML = "Troy VIIa is probably the closest analog to the Troy of the Epic Cycle. Troy VIIa dates from 1300-1250 BC, roughly the time of the Tawagalawa Letter. Here, archaeologists have found evidence of fire, skeletons with trauma and bronze arrowheads, all pointing toward a violent conflict at the site. Later artifacts also show an increasing Greek influence in the area.";
+							document.getElementById('fact').innerHTML = 'Archaeologists have been able to piece together a little about Trojan culture. No foundries were found there, but the Trojans did have access to bronze and iron through trading. They also kept dogs and cats as pets.';
 						});
 						$('#fact').fadeTo(1000, 1);
 						
@@ -55,7 +55,7 @@ function Art() {
 							});
 							$('#art').fadeTo(1000, 1);
 							$('#fact').fadeTo(1000, 0.0, function() {
-								document.getElementById('fact').innerHTML = "The tensions which likely led to the Trojan War started early. As early as the 15th century BC, 22 confederated Anatolian states called the Assuwa League had pitched rebellions against Wilusa and their Hittite allies. Hittite literature from the time suggests that the Assuwa League had the support of Ahhiwaya (Mycenaean Greece).";
+								document.getElementById('fact').innerHTML = 'While for years most scholars dismissed Troy as a myth, some adventurers and archaeologists continued to look for the city. In 1870, a German businessman and archaeologist named Heinrich Schliemann began excavating at a site in modern-day Turkey called Hisarlik. After digging down through nine distinct archaeological layers he found a city with a pari of massive gates, gates that would fit some famously impenetrable walls. Later geographic analysis proved that the site at Hisarlik was virtually identical to what we know of the historical Troy.';
 							});
 							$('#fact').fadeTo(1000, 1);
 							
@@ -65,7 +65,7 @@ function Art() {
 								});
 								$('#art').fadeTo(1000, 1);
 								$('#fact').fadeTo(1000, 0.0, function() {
-									document.getElementById('fact').innerHTML = "Schliemann’s dig suggested not only that there was a real Troy, but there were in fact many Troys. The city was destroyed continuously through fires, sieges, and other disasters. Each time, the Trojans rebuilt on the same site. Troy was named a UNESCO World Heritage Site in 1998.";
+									document.getElementById('fact').innerHTML = 'Early explorers were painfully close to finding the real Troy. Pierre Belon and Pietro Della Valle, two sixteenth-century explorers, argued that the legendary Troy was based on a town called Alexandria Troas, just 20 kilometers south of Schliemanns dig';
 								});
 								$('#fact').fadeTo(1000, 1);
 								
@@ -75,7 +75,7 @@ function Art() {
 									});
 									$('#art').fadeTo(1000, 1);
 									$('#fact').fadeTo(1000, 0.0, function() {
-										document.getElementById('fact').innerHTML = "Even in ancient times, the idea of a giant horse smuggling Greek soldiers into a city sounds pretty far-fetched. Scholars have tried to explain away the idea by suggesting that the Trojan Horse might have just been a poetic way of describing a battering ram the Greeks might have used to breach Troy’s massive, fortified gates.";
+										document.getElementById('fact').innerHTML = 'According to the Iliad, the Trojan War began when the Trojan prince Paris ran away to troy with Helen, wife of the Spartan king Menelaus. Paris had been chosen to judge which Greek goddess was the most beautiful. Aphrodite told him that were he to select her, she would give him love of the most beautiful woman on earth. He did so, and the love goddess made Helen fall in love with him, igniting the conflict and giving her the name "the face that launched a thousand ships."';
 									});
 									$('#fact').fadeTo(1000, 1);
 								}, 15000);

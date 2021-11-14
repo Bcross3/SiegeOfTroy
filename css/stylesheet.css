@@ -131,8 +131,8 @@ footer a{
 	h1 {
 		font-size: 1.5em;
 	}
-	p {
-		font-size: .8em;
+	#book {
+		font-size: 1em;
 	}
 	nav {
 		word-spacing: 10px;
@@ -148,8 +148,8 @@ footer a{
 	footer a {
 		font-size: .8em;
 	}
-	#facts {
-		font-size: .5em;
+	.imageWrapper {
+		font-size: .65em;
 	}
 }
 @media only screen and (min-width: 401px) and (max-width: 600px) {
