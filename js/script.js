@@ -96,12 +96,12 @@ function artMusic() {
 	}
 }
 function homeMusic() {
-	var ok = confirm("Would you like music?");
+	/*var ok = confirm("Would you like music?");
 	if(ok==true){
 		var home = new Audio("./media/home.mp3");
 		home.play();
 	}else{
-	}
+	}*/
 }
 $(document).ready(function() {
 	Art();
