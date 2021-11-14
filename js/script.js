@@ -1,4 +1,5 @@
 function Art() {
+	
 	setTimeout(function() {
 		$('#art').fadeTo(1000, 0.0, function() {
 			document.getElementById('art').src = "./images/art3.jpg";
@@ -103,7 +104,37 @@ function homeMusic() {
 	}else{
 	}*/
 }
+function loading() {
+	var bar = new ldBar(".myBar", {
+		   "stroke": 'gold',
+		   "stroke-width": 10,
+		   "preset": "stripe",
+		   "value": 0
+	});
+	
+	function load() {
+		setTimeout(function() {
+			bar.set(26);
+			setTimeout(function(){
+				bar.set(53);
+				setTimeout(function(){
+					bar.set(79);
+					setTimeout(function(){
+						bar.set(100);
+						setTimeout(function() {
+							bar.set(0);
+						}, 3000);
+					}, 3000);
+				}, 3000);
+			}, 3000);
+		},3000); 
+	}
+	load();
+	setInterval(load, 15000);
+}
 $(document).ready(function() {
 	Art();
 	setInterval(Art, 120000);
+	
+	loading();
 });
