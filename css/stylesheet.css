@@ -53,6 +53,7 @@ img {
 }
 .imageWrapper {
 	background-color: dimgray;
+	background-image: url('../images/pictureBackground.jpg');
 	margin-left: 10%;
 	margin-right: 10%;
 	border: inset;
@@ -199,8 +200,8 @@ footer a{
 		margin-right: 0;
 	}
 }
-@media only screen and (min-width: 1001px) and (max-width: 1300px) {
-	#Title{
+@media only screen and (min-width: 1001px) and (max-width: 1200px) {
+	#Title {
 		position: initial;
 		z-index: 0;
 	}
