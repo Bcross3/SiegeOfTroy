@@ -22,6 +22,7 @@ body {
 #Title {
 	filter: brightness(50%);
 	z-index: -1;
+	font-family: 'Amatic SC', cursive;
 }
 .Top hr {
 	background-color: gold;
@@ -38,7 +39,10 @@ body {
 	font-size: 1.5em;
 	text-shadow: 5px 5px 10px dimgray;
 	filter: brightness(50%);
-	font-family: cursive;
+}
+h3 {
+	font-family: 'Kolker Brush';
+	font-size: 2em;
 }
 img {
 	box-shadow: 5px 5px 5px black;
@@ -60,7 +64,7 @@ img {
 	border-color: white;
 }
 nav {
-	font-size: 1em;
+	font-size: 2em;
 	margin-top: 5%;
 	margin-bottom: 1%;
 	margin-right: 30%;
@@ -80,6 +84,7 @@ a {
 	text-decoration: underline;
 	color: gold;
 	text-shadow: 5px 5px 10px dimgray;
+	font-family: 'Amatic SC', cursive;
 }
 a:hover {
 	transition: .5s;
